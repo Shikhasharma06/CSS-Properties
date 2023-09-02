@@ -18,5 +18,15 @@ body{
 here used for property specifies whether to clip the content, add a scroll bar, or display overflow content of a block-level element, when it overflows at the top and bottom edges.
 
 ![Screenshot_9](https://github.com/Shikhasharma06/CSS-Properties/assets/135316685/3e5fbbad-741c-4f64-9113-89e76a3bb803)
+
+background color here to give backgound color
+width: 120px;
+  height: 150px; 
+
+  here for height and width
+
+  text-align: center;  for the text aligment
 ![Screenshot_10](https://github.com/Shikhasharma06/CSS-Properties/assets/135316685/87604a52-d324-4bc6-9385-564c088ddc4a)
 ![Screenshot_11](https://github.com/Shikhasharma06/CSS-Properties/assets/135316685/9f4414f0-5c89-4331-860c-c39309250554)
+
+https://shikhasharma06.github.io/CSS-Properties/index.html
